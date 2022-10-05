@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+#dogSprite {
+    display: none;
+}
+
+#canvas {
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    width: 100%;
+    height: 720px;
+    background-color: #121212;
+    font-family: 'Creepster', cursive;
+}
+
+/* #backgroundSprite1, 
+#backgroundSprite2, 
+#backgroundSprite3, 
+#backgroundSprite4, 
+#backgroundSprite5 {
+    display: none;
+}
+
+#enemyFly,
+#enemyWorm,
+#enemySpider {
+    display: none;
+}
+
+#fireSprite {
+    display: none;
+} */
+img {
+    display: none;
+}
